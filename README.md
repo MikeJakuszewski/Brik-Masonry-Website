@@ -1,4 +1,4 @@
-# Brik Mansonry
+# Brik Masonry
 
 This was a project built for a client with modifications.
 
