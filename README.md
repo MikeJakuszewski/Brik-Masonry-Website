@@ -4,7 +4,7 @@ This was a project built for a client with modifications.
 
 **Link to project:** https://brikmasonry.netlify.app/
 
-![alt tag]()
+![alt tag](https://github.com/MikeJakuszewski/Brik-Masonry-Website/blob/main/Brik-Gif.gif)
 
 ## How It's Made:
 
